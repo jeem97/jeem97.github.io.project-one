@@ -1,19 +1,17 @@
 html{
-    background-color: #E6E6FA;
-  }
-  h1{ 
-    font-size: 50px; 
-    font-family: 'Muli', sans-serif;
-    color: #4B0082;
-    width: 400px;
-      margin: 40px auto;
-  }
-  span{
-    color: #483D8B;
-    font-size: 30px;
-    font-family: 'Aleo', serif;
-  }
-  h1{
-    color: red;
-  }
+  background-color: #E6E6FA
+}
+h1{
+font-size: 50px;
+font-family: 'Muli', sans-serif;
+width: 400px;
+margin: 40px auto;
+color: #4B0082 
+}
+span{
+  font-size: 30px;
+  font-family: 'Aleo', serif;
+  color: #483D8B
+}
+ 
   
