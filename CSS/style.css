@@ -1,16 +1,43 @@
-#back{
+html{
   background-color: #E6E6FA;
 }
-#title{ 
+h1{ 
   font-size: 50px; 
   font-family: 'Muli', sans-serif;
   color: #4B0082;
   width: 400px;
 	margin: 40px auto;
 }
-#h1{
-  color: #483D8B;
-  font-size: 30px;
+#point{
+  color: #6d0275;
+  font-size: 20px;
   font-family: 'Aleo', serif;
 }
+.h1, h3, h5, p, ol, a, html, link, body, div, nav, main, aside {
+  font-size: 20px;
+  color: #6a0270;
+  
+}
+#top{
+  color: purple;
+  font-size: 20px;
+}
+.back{
+  font-size: 15px;
+  position: relative;
+	max-width: 100%;
+  left: 680px;
+ 
+}
 
+#box1, #box3, #box5, #box7, #box9, #box11, #box13, #box15, #box17, #box19, #box21, #box23, #box25{
+  border: 5px solid #81028a;
+  margin: 10px; 
+  padding: 10px;
+}
+
+#box2, #box4, #box6, #box8, #box10, #box12, #box14, #box16, #box18, #box20, #box22, #box24{
+  border: 5px solid #a403b0; 
+  margin: 10px;
+  padding: 10px;
+}
